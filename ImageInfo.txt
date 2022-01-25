@@ -1,0 +1,23 @@
+4.57(Km) X 4.57(Km)
+
+NW Corner Lat	28°36'39.71"N
+NW Corner Long	80°40'34.98"W
+NW Corner Lat dec	28.611031005046
+NW Corner Long dec	-80.6763827871734
+
+NE Corner Lat	28°36'39.28"N
+NE Corner Long	80°37'46.68"W
+NE Corner Lat dec	28.6109113638868
+NE Corner Long dec	-80.629633059231
+
+SE Corner Lat	28°34'10.77"N
+SE Corner Long	80°37'47.20"W
+SE Corner Lat dec	28.5696569921379
+SE Corner Long dec	-80.6297776181286
+
+
+SW Corner Lat	28°34'11.20"N
+SW Corner Long	80°40'35.43"W
+SW Corner Lat dec	28.5697764294287
+SW Corner Long dec	-80.6765090998931
+
